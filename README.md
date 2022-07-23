@@ -8,7 +8,7 @@
 
 # Clone the APP from given URL
 
-https://github.com/manzoor-ali/starwars.git
+https://github.com/manzoor-ali/manzoor-ali.git
 
 
 ## Available Scripts
