@@ -13,7 +13,7 @@ https://github.com/manzoor-ali/manzoor-ali.git
 
 ## Available Scripts
 
-In the project directory, you can run: If you just colne the repository you have to run npm install cammand but make sure you have node v 16.14.0
+In the project directory, you can run npm install and make sure you have node v 16.14.0
 
 ### `npm install`
 
